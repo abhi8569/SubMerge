@@ -1,0 +1,31 @@
+1
+00:00:01,200 --> 00:00:04,200
+Hallo, wie geht es Ihnen?
+
+2
+00:00:05,100 --> 00:00:08,700
+Mir geht es gut, danke der Nachfrage.
+
+3
+00:00:09,200 --> 00:00:12,200
+Was schauen Sie heute Abend?
+
+4
+00:00:13,100 --> 00:00:16,700
+Ich werde einen ausländischen Film schauen.
+
+5
+00:00:17,200 --> 00:00:20,200
+Das klingt interessant! Welchen?
+
+6
+00:00:21,100 --> 00:00:24,700
+Es ist ein deutscher Film namens "Dark".
+
+7
+00:00:25,200 --> 00:00:28,200
+Oh, ich habe gehört, dass er wirklich gut ist.
+
+8
+00:00:29,100 --> 00:00:33,200
+Ja, die Handlung ist absolut unglaublich.

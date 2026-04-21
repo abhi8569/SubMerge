@@ -1,0 +1,31 @@
+1
+00:00:01,000 --> 00:00:04,000
+Hello, how are you?
+
+2
+00:00:05,000 --> 00:00:08,500
+I'm doing great, thanks for asking.
+
+3
+00:00:09,000 --> 00:00:12,000
+What are you watching tonight?
+
+4
+00:00:13,000 --> 00:00:16,500
+I'm going to watch a foreign film.
+
+5
+00:00:17,000 --> 00:00:20,000
+That sounds interesting! Which one?
+
+6
+00:00:21,000 --> 00:00:24,500
+It's a German movie called "Dark".
+
+7
+00:00:25,000 --> 00:00:28,000
+Oh, I've heard that's really good.
+
+8
+00:00:29,000 --> 00:00:33,000
+Yes, the storyline is absolutely incredible.
