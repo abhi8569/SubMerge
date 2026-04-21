@@ -52,7 +52,7 @@ Then open **http://localhost:3000** (or whichever port is shown) in your browser
 
 ## 🚀 How to Use
 
-### 1. Prepare Your Subtitle Files
+### 1. Prepare Your Subtitle Files (I recommend **https://github.com/fosterbarnes/rustitles** to download subtitle files in bulk)
 
 Name your subtitle files with a **language suffix** so the app can auto-detect and pair them:
 
