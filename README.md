@@ -1,4 +1,4 @@
-# 🔀 SubtitleMerge
+# 🔀 Batch SubtitleMerge
 
 Merge two subtitle files of different languages into a single dual-language subtitle file.  
 Watch foreign films and TV series with both the original and translated subtitles side by side — learn a new language effortlessly.
